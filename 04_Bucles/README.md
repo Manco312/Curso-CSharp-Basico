@@ -10,6 +10,10 @@ Los **bucles** o **estructuras repetitivas** permiten ejecutar un bloque de inst
 - Permite iterar con un valor inicial, una condición de fin y un incremento o decremento.
 - Ideal para **contar** o recorrer rangos definidos.
 
+### 🔁 `foreach`
+
+- Itera sobre cada uno de los elementos de un arreglo, lista, entre otros.
+
 ### 🔄 `while`
 
 - Repite el bloque **mientras una condición sea verdadera**.
