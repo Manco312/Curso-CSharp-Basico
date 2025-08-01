@@ -65,5 +65,5 @@ Se usa para **evaluar una variable contra múltiples valores posibles**. Es una 
 | `>=`     | Mayor o igual        | ¿Es igual o mayor?             |
 | `<=`     | Menor o igual        | ¿Es igual o menor?             |
 | `&&`     | Y lógico (AND)       | ¿Ambas condiciones se cumplen? |
-| ||       | O lógico (OR)        | ¿Al menos una se cumple?       |
+|  ``||``      | O lógico (OR)        | ¿Al menos una se cumple?       |
 | `!`      | Negación lógica      | ¿La condición es falsa?        |
